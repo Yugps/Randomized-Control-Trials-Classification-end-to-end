@@ -44,11 +44,11 @@ def main_function():
 
     total_lines,sentence_no=total_lines_maker(some_rct)
 
-    loaded_model=tf.keras.models.load_model('Trybrid_model_final')
+    loaded_model=tf.keras.models.load_model('RCTClassificationModel')
 
     results=loaded_model.predict((tf.constant(list_of_sent),tf.constant(char_rct_sent),tf.constant(sentence_no),tf.constant(total_lines)))
 
-    ohe=pickle.load(open('/content/drive/MyDrive/RCT Classification/One Hot Encoder/ohe.pkl','rb'))
+    ohe=pickle.load(open('One Hot Encoder/ohe.pkl','rb'))
 
     classes=ohe.inverse_transform(results)
 
