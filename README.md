@@ -6,6 +6,7 @@ This repository contains code and resources for classifying research articles ba
   3. Method
   4. Result
   5. Conclusion.
+* Dataset used can be accessed from https://github.com/Franck-Dernoncourt/pubmed-rct
 * Model can be downloaded right from the link given here once downloaded, clone the repository Extract the model folder 'RCTClassificationModel' into the cloned repository .
 * Model will be then accessed by App.py file itself . Model size is around 1gb 
 * Link to the model https://drive.google.com/file/d/1vIhuVTXAERur38mo0UpZ8bfL47YWd1Xv/view?usp=sharing
