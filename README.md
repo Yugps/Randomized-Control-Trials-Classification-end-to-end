@@ -7,6 +7,7 @@ This repository contains code and resources for classifying research articles ba
   4. Result
   5. Conclusion.
 * Dataset used can be accessed from https://github.com/Franck-Dernoncourt/pubmed-rct
+* The one we have used here is PubMed_200k_RCT_numbers_replaced_with_at_sign
 * Model can be downloaded right from the link given here once downloaded, clone the repository Extract the model folder 'RCTClassificationModel' into the cloned repository .
 * Model will be then accessed by App.py file itself . Model size is around 1gb
 * End to End web api makes the whole usage Hassle Free
