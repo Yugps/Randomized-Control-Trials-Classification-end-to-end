@@ -12,3 +12,12 @@ This repository contains code and resources for classifying research articles ba
 * Model will be then accessed by App.py file itself . Model size is around 1gb
 * End to End web api makes the whole usage Hassle Free
 * Link to the model https://drive.google.com/file/d/1vIhuVTXAERur38mo0UpZ8bfL47YWd1Xv/view?usp=sharing
+## Here are some In App Images
+![Alt text](https://github.com/Yugps/Randomized-Control-Trials-Classification-end-to-end/blob/main/App%20Images/Screenshot%20(80).png)
+![Alt text](https://github.com/Yugps/Randomized-Control-Trials-Classification-end-to-end/blob/main/App%20Images/Screenshot%20(77).png)
+![Alt text](https://github.com/Yugps/Randomized-Control-Trials-Classification-end-to-end/blob/main/App%20Images/Screenshot%20(79).png)
+![Alt text](https://github.com/Yugps/Randomized-Control-Trials-Classification-end-to-end/blob/main/App%20Images/Screenshot%20(78).png)
+
+
+
+
